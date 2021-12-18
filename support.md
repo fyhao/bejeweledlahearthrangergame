@@ -1,3 +1,13 @@
 This is support page
 
-!(ios screenshot)[/assets/ios-screenshot.jfif]
+1
+!(ios screenshot)[/assets/splash.png]
+
+2
+!(ios screenshot)[/splash.png]
+
+3
+!(ios screenshot)[assets/splash.png]
+
+4
+!(ios screenshot)[/bejeweledlahearthrangergame/assets/splash.png]
