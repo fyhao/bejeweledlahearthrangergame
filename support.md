@@ -12,4 +12,7 @@ This is support page
 4
 !(ios screenshot)[/bejeweledlahearthrangergame/assets/splash.png]
 
-![Pic1]({{ "/assets/splash.png" | absolute_url }})
+![Pic1]({{ "/docs/assets/splash.png" | absolute_url }})
+
+
+![Pic1]({{ "/docs/assets/ios-screenshot.jfif" | absolute_url }})
